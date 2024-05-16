@@ -138,7 +138,7 @@ export default {
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 #ingresoDatos,
